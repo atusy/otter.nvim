@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.1](https://github.com/jmbuhr/otter.nvim/compare/v1.7.0...v1.7.1) (2024-01-15)
+
+
+### Bug Fixes
+
+* empty metadata caused treesitter directives like offset to be ignored ([#80](https://github.com/jmbuhr/otter.nvim/issues/80)) ([0fd09ca](https://github.com/jmbuhr/otter.nvim/commit/0fd09ca26c1525619aa11dc90a9ac715f32ecb32))
+
 ## [1.7.0](https://github.com/jmbuhr/otter.nvim/compare/v1.6.0...v1.7.0) (2024-01-04)
 
 
